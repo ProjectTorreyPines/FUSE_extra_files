@@ -1,4 +1,4 @@
-This repository holds large FUES files
+This repository holds large FUSE files
 
 ** DO NOT PUSH FILES IN THE `master` BRANCH **
 
