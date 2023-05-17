@@ -7,3 +7,4 @@ Storage for FUSE's:
 * Sample files
 
 Follow these instructions to setup git LFS https://git-lfs.github.com and upload large files
+NOTE: `git-lfs` is needed even just to clone this repository
